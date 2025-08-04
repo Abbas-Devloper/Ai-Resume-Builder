@@ -4,6 +4,8 @@ A sleek, modern, and fully responsive **AI-powered Resume Builder** using HTML, 
 
 ---
 
+![AI Resume Builder Screenshot](./assets/screenshot1.png)
+
 ## 🚀 Features
 
 - 🧠 **AI Autofill (Optional)** – Use OpenAI’s API to generate resume content.
@@ -28,6 +30,7 @@ A sleek, modern, and fully responsive **AI-powered Resume Builder** using HTML, 
 - ✅ **HTML5**
 - ✅ **CSS3** (including optional `dark.css`)
 - ✅ **Vanilla JavaScript**
+
 
 
 
